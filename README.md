@@ -1,0 +1,2 @@
+# rabbitmq_communication
+python实现rabbitmq消息队列通信
